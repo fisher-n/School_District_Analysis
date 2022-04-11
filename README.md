@@ -3,7 +3,7 @@
 The purpose of this analysis is to correct errors of academic dishonesty in reading and math grades for Thomas High School ninth graders.
 
 ## Results
-![This is an image]()
+![This is an image](https://github.com/fisher-n/School_District_Analysis/blob/main/Resources/d3.png)
 - The district summary was affected when removing the dishonest test scores on Thomas High School. Decreasing math scores from 83.41 to 83.35 and reading scores and increasing the reading scores from 83.84 to 83.89.
 - The only change in school summary was unsignificant reduction in the passing precentages in math, reading and overall of the Thomas High School only; everything else is the same.
 - When the 9th-grade scores from THS are removed, we see a percent passing rate that is slightly lower. Without removing this data, Thomas High School students passed math at a rate of 93.27% and reading at 97.31%. With this filter, the passing rates are 97% for reading, and 93.19% for math.
